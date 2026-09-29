@@ -1,4 +1,7 @@
-# Hi, I'm Marco Christian 👋
+<div align="center">
+  
+![header](https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=200&section=header&text=Marco%20Christian&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20AI%20Engineer%20@%20CS%20UGM&descSize=16&descAlignY=58&descColor=ddccff)
+</div>
 
 🎓 Computer Science Student at Universitas Gadjah Mada
 
@@ -14,6 +17,7 @@ I'm interested in building practical solutions through **Data Science, Machine L
 
 ### Tech Stack
 
+<div align="center">
 **Languages**
 
 <p>
@@ -62,17 +66,11 @@ I'm interested in building practical solutions through **Data Science, Machine L
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
-### What I'm Currently Learning
+</div>
 
-```text
-Software Engineering
-        ↓
-Backend Development
-        ↓
-System Design & Architecture
-        ↓
-Building Reliable Software
-```
+### Currently Learning
+
+- **Software Engineering -> Web/Backend Development -> NestJS, PostgreSQL, Prisma ORM, Redis, Docker**
 
 ### Projects
 
@@ -85,4 +83,4 @@ You can find some of my projects and experiments in my repositories, covering ar
 
 ---
 
-> *Learning by building, improving through iteration.*
+> *Understand deeply enough to build; build enough to understand better.”.*
