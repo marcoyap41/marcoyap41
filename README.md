@@ -2,7 +2,6 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=200&section=header&text=Marco%20Christian&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20AI%20Engineer%20@%20CS%20UGM&descSize=16&descAlignY=58&descColor=ddccff)
 </div>
-
 🎓 Computer Science Student at Universitas Gadjah Mada
 
 I'm interested in building practical solutions through **Data Science, Machine Learning, and Software Engineering**.
