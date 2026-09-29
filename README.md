@@ -8,7 +8,7 @@
 I'm interested in building practical solutions through **Data Science, Machine Learning, and Software Engineering**.
 
 ### About Me
-
+---
 * 📊 Experienced in **Data Science & Machine Learning**
 * 🔐 Experienced in **Cybersecurity & Network Security**
 * 🧠 Currently deepening my knowledge in **Software Engineering & Backend Development**
@@ -16,7 +16,7 @@ I'm interested in building practical solutions through **Data Science, Machine L
 * 📚 Always learning and experimenting with new technologies
 
 ### Tech Stack
-
+---
 <div align="center">
   
 **Languages**
@@ -70,11 +70,11 @@ I'm interested in building practical solutions through **Data Science, Machine L
 </div>
 
 ### Currently Learning
-
+---
 - **Software Engineering -> Web/Backend Development -> NestJS, PostgreSQL, Prisma ORM, Redis, Docker**
 
 ### Featured Projects
-
+---
 | Project                             | Description                                                                 | Tech Stack                                           |
 | ----------------------------------- | --------------------------------------------------------------------------- | ---------------------------------------------------- |
 | [**EasyKanban - Task Management Tools**](https://easykanban.vercel.app/) |  Customizable, user-friendly Kanban task management web app. | HTML · CSS · Javascript            |
