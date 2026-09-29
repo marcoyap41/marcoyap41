@@ -73,14 +73,11 @@ I'm interested in building practical solutions through **Data Science, Machine L
 
 - **Software Engineering -> Web/Backend Development -> NestJS, PostgreSQL, Prisma ORM, Redis, Docker**
 
-### Projects
+### Featured Projects
 
-You can find some of my projects and experiments in my repositories, covering areas such as:
-
-* 📊 Data Science & Machine Learning
-* 🤖 AI Applications
-* ⚙️ Backend Development
-* 💻 Software Engineering
+| Project                             | Description                                                                 | Tech Stack                                           |
+| ----------------------------------- | --------------------------------------------------------------------------- | ---------------------------------------------------- |
+| [**EasyKanban - Task Management Tools**](https://easykanban.vercel.app/) |  Customizable, user-friendly Kanban task management web app. | HTML · CSS · Javascript            |
 
 ---
 
