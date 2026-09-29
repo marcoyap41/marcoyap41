@@ -76,7 +76,7 @@ I'm interested in building practical solutions through **Data Science, Machine L
 
 | Project                             | Description                                                                 | Tech Stack                                           |
 | ----------------------------------- | --------------------------------------------------------------------------- | ---------------------------------------------------- |
-| <a href="https://easykanba.vercel.app/" target="_blank">[**EasyKanban - Task Management Tool**]</a> |  Customizable, user-friendly Kanban task management web app. | HTML · CSS · Javascript            |
+| [**EasyKanban - Task Management Tool**](https://easykanba.vercel.app/) |  Customizable, user-friendly Kanban task management web app. | HTML · CSS · Javascript            |
 
 ---
 
