@@ -9,7 +9,7 @@ I'm interested in building practical solutions through **Software Engineering, D
 ## About Me
 
 * Experienced in **Data Science, Machine Learning,** and **Cybersecurity & Network Security**
-* Currently deepening my knowledge in **Software Engineering & Backend Development, AI Engineering,** and **Embedded Systems**
+* Currently deepening my knowledge in **Software Engineering/Full-Stack Web Development, AI Engineering,** and **Embedded Systems**
 * Software engineer dedicated to building reliable, practical systems. I thrive in environments that challenge me to continually learn and experiment with emerging technologies.
 
 ## Tech Stack
