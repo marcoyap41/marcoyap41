@@ -4,15 +4,13 @@
 </div>
 🎓 Computer Science Student at Universitas Gadjah Mada
 
-I'm interested in building practical solutions through **Data Science, Machine Learning, and Software Engineering**.
+I'm interested in building practical solutions through **Software Engineering, Data Science, and  AI Engineering**.
 
 ## About Me
 
-* 📊 Experienced in **Data Science & Machine Learning**
-* 🔐 Experienced in **Cybersecurity & Network Security**
-* 🧠 Currently deepening my knowledge in **Software Engineering & Backend Development**
-* 🔨 Interested in building reliable and practical software systems
-* 📚 Always learning and experimenting with new technologies
+* Experienced in **Data Science, Machine Learning,** and **Cybersecurity & Network Security**
+* Currently deepening my knowledge in **Software Engineering & Backend Development, AI Engineering,** and **Embedded Systems**
+* Software engineer dedicated to building reliable, practical systems. I thrive in environments that challenge me to continually learn and experiment with emerging technologies.
 
 ## Tech Stack
 
@@ -76,7 +74,7 @@ I'm interested in building practical solutions through **Data Science, Machine L
 
 | Project                             | Description                                                                 | Tech Stack                                           |
 | ----------------------------------- | --------------------------------------------------------------------------- | ---------------------------------------------------- |
-| [**EasyKanban - Task Management Tool**](https://easykanba.vercel.app/) |  Customizable, user-friendly Kanban task management web app. | HTML · CSS · Javascript            |
+| [**Kanvu - Task Management Tool**](https://kanvu.vercel.app/) |  A simple, customizable, and user-friendly Kanban task management web app. | HTML · CSS · Javascript            |
 
 ---
 
