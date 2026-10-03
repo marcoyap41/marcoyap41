@@ -41,6 +41,8 @@ I'm interested in building practical solutions through **Software Engineering, D
 <p>
   <img src="https://img.shields.io/badge/-NestJs-ea2845?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJs"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/-TypeORM-007acc?style=for-the-badge&logo=TypeORM&logoColor=white" alt ="TypeORM"/>
+  <img src="https://img.shields.io/badge/-PostgreSQL-226060?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://camo.githubusercontent.com/78318bbb75408a763c385139db7cc654f9f47c1beb4ad0410956da3537834ea1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732d3333393933333f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465" alt="Node.JS"/>  
